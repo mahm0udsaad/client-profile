@@ -14,7 +14,7 @@ function Main() {
                   animate={{opacity:1}}
                   transition={{duration:.5}}
                   className="rounded-t-full mr-4"
-                  src="src/assets/photo_2023-08-30_16-40-54.jpg"
+                  src="https://i.imgur.com/HrH7SDE.jpg"
                   alt="Profile"
                 />
               </div>
