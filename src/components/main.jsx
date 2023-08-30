@@ -51,7 +51,7 @@ function Main() {
               </div>
               <div className="flex w-11/12 justify-around">
                   <a
-                      href={'src/assets/Copy6-Habiba_yasser_resume 1.pdf'}
+                      href={'./assets/Copy6-Habiba_yasser_resume 1.pdf'}
                       download={'Copy6-Habiba_yasser_resume 1.pdf'}
                       className="btn border border-gray-700 text-gray-700 px-4 py-2 rounded"
                     >
